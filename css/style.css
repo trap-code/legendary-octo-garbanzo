@@ -1,0 +1,27 @@
+body {
+  font-family: 'Courgette', cursive;
+  font-size: 120%;
+  background-color: #efefef;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  color: #fe0f0f;
+}
+
+hr {
+  width: 15%;
+}
+
+#first-hr {
+  width: 20%;
+}
+
