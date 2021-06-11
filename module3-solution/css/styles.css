@@ -1,0 +1,42 @@
+
+body {
+  font-family: 'Courgette', cursive;
+}
+
+.navbar-brand {
+  height: auto;
+}
+
+.navbar-brand a {
+  padding: 5px;
+}
+
+.navbar-brand h1 {
+  margin: 0;
+}
+
+li {
+  text-align: center;
+  font-size: 1.6em;
+}
+
+.cell {
+  background-color: #efefef;
+  padding: 20px;
+  margin-bottom: 30px; 
+}
+
+h3 {
+  margin: 10px;
+}
+
+.content-text {
+  height: 700px;
+}
+
+@media (max-width:767px) {
+  #main-content {
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+}
